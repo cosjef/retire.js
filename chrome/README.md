@@ -12,6 +12,8 @@ To use the development version:
 3. Open [chrome://extensions/](chrome://extensions/)
 4. Check "Developer mode"
 5. Click "Load unpacked extension..." and locate the "chrome" folder inside the repo
-6. Use and develop
+6. Select the entire Chrome directory
+7. The extention should now be active in Chrome. (Verify by single-click of icon)
+8. Open More Tools/JavaScript Console to see what security vulnerabilities were discovered.
 
 To test the reporting you can visit the demo page at [http://erlend.oftedal.no/blog/retire/](http://erlend.oftedal.no/blog/retire/)
